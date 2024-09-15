@@ -1,2 +1,2 @@
 # University
-print('Hello World')
+print('Hilfe')
